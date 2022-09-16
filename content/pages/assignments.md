@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions and guidelines for the writing assignments
+  of the course along with an example of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
